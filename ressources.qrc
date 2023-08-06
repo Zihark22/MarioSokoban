@@ -1,0 +1,52 @@
+<RCC>
+    <qresource prefix="/">
+        <file>MarioDocs/batmfa.ttf</file>
+        <file>MarioDocs/bravo.jpg</file>
+        <file>MarioDocs/caisse.jpg</file>
+        <file>MarioDocs/caisse_ok.jpg</file>
+        <file>MarioDocs/constantes.h</file>
+        <file>MarioDocs/eat.wav</file>
+        <file>MarioDocs/editeur.c</file>
+        <file>MarioDocs/editeur.h</file>
+        <file>MarioDocs/fgif.c</file>
+        <file>MarioDocs/fgif.h</file>
+        <file>MarioDocs/fgifdsl.c</file>
+        <file>MarioDocs/fgifsdl.c</file>
+        <file>MarioDocs/fgifsdl.h</file>
+        <file>MarioDocs/fichiers.c</file>
+        <file>MarioDocs/fichiers.h</file>
+        <file>MarioDocs/instructions.jpg</file>
+        <file>MarioDocs/instructions_jeu.png</file>
+        <file>MarioDocs/jeu.c</file>
+        <file>MarioDocs/jeu.h</file>
+        <file>MarioDocs/jeux</file>
+        <file>MarioDocs/jpeg.dll</file>
+        <file>MarioDocs/key.gif</file>
+        <file>MarioDocs/libpng13.dll</file>
+        <file>MarioDocs/main.c</file>
+        <file>MarioDocs/mario_bas.gif</file>
+        <file>MarioDocs/mario_droite.gif</file>
+        <file>MarioDocs/mario_gauche.gif</file>
+        <file>MarioDocs/mario_haut.gif</file>
+        <file>MarioDocs/MarioAndLuigi.ttf</file>
+        <file>MarioDocs/marioFace.png</file>
+        <file>MarioDocs/MarioGame</file>
+        <file>MarioDocs/marioProfil copie.png</file>
+        <file>MarioDocs/marioProfil.png</file>
+        <file>MarioDocs/menu.jpg</file>
+        <file>MarioDocs/mur.jpg</file>
+        <file>MarioDocs/niveaux.lvl</file>
+        <file>MarioDocs/objectif.png</file>
+        <file>MarioDocs/regles_edit.jpg</file>
+        <file>MarioDocs/regles_jeu.png</file>
+        <file>MarioDocs/SDL.dll</file>
+        <file>MarioDocs/SDL_image.dll</file>
+        <file>MarioDocs/supermario.gif</file>
+        <file>MarioDocs/supermario.png</file>
+        <file>MarioDocs/SuperMario256.ttf</file>
+        <file>MarioDocs/SuperMarioBros.wav</file>
+        <file>MarioDocs/titreMario.png</file>
+        <file>MarioDocs/titreMarioGIF.png</file>
+        <file>MarioDocs/zlib1.dll</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,8 @@
+
+PRENOM	NOM	AGE	NATIONALITE	E-MAIL
+
+JULIEN	BADAJOZ	21	Français	badajoz.j@outlook.frEntrez votre prénom	Entrez votre nom	20	Français	exemple@gmail.com
+JULIEN	BADAJOZ	21	Français	badajoz.j@gmail.com
+Entrez votre préno	Entrez votre no	20	Français	exemple@gmail.co
+JULIEN	BADAJOZ	20	Français	S@gmail.com
+Julien	Entrez votre n	20	Français	exmple@gmail.com
